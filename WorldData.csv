@@ -1,4 +1,4 @@
-,Country Name,Country Code,Year,Population,Period life expectancy at birth,Infant Mortality,GDP Per Capita,GNP Per Capita,PPP Per Capita,Continent,Log GDP Per Capita,Log GNP Per Capita,Log PPP Per Capita
+,Country Name,Country Code,Year,Population,Period life expectancy at birth,Infant mortality rate per 1000,GDP Per Capita,GNP Per Capita,PPP Per Capita,Continent,Log GDP Per Capita,Log GNP Per Capita,Log PPP Per Capita
 0,Aruba,ABW,1962,56320.0,64.6,,,,,North America,,,
 1,Afghanistan,AFG,1962,9404406.0,33.76,245.4,,,,Asia,,,
 2,Angola,AGO,1962,5354310.0,37.17,,,,,Africa,,,
